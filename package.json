@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/achungerford/homepage/issues"
   },
-  "homepage": "https://github.com/achungerford/homepage#readme"
+  "homepage": "https://github.com/achungerford/homepage#readme",
+  "dependencies": {
+    "dotenv": "^8.2.0"
+  }
 }
